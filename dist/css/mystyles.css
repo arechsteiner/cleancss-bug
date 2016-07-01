@@ -1,0 +1,10 @@
+/*@import "../node_modules/bootstrap/scss/mixins/_breakpoints.scss";*/
+/*@import "../node_modules/bootstrap/scss/_variables.scss";*/
+body {
+  background: fuchsia; }
+
+/*@include media-breakpoint-up(sm) {*/
+/*background:blue;*/
+/*}*/
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibXlzdHlsZXMuY3NzIiwic291cmNlcyI6WyJteXN0eWxlcy5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qQGltcG9ydCBcIi4uL25vZGVfbW9kdWxlcy9ib290c3RyYXAvc2Nzcy9taXhpbnMvX2JyZWFrcG9pbnRzLnNjc3NcIjsqL1xuLypAaW1wb3J0IFwiLi4vbm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9zY3NzL192YXJpYWJsZXMuc2Nzc1wiOyovXG5cbmJvZHkge1xuICBiYWNrZ3JvdW5kOiBmdWNoc2lhO1xufVxuXG4vKkBpbmNsdWRlIG1lZGlhLWJyZWFrcG9pbnQtdXAoc20pIHsqL1xuICAvKmJhY2tncm91bmQ6Ymx1ZTsqL1xuLyp9Ki9cbiJdLCJtYXBwaW5ncyI6IkFBQUEsc0VBQXNFO0FBQ3RFLDZEQUE2RDtBQUU3RCxBQUFBLElBQUksQ0FBQztFQUNILFVBQVUsRUFBRSxPQUFRLEdBQ3JCOztBQUVELHNDQUFzQztBQUNwQyxvQkFBb0I7QUFDdEIsS0FBSyIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */

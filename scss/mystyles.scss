@@ -1,0 +1,10 @@
+@import "../node_modules/bootstrap/scss/mixins/_breakpoints.scss";
+@import "../node_modules/bootstrap/scss/_variables.scss";
+
+body {
+  background: fuchsia;
+}
+
+@include media-breakpoint-up(sm) {
+  background:blue;
+}
